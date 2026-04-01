@@ -39,8 +39,8 @@ $ cd codyssey_practice
 ```
 
 ### 권한 실습 증명
-$ chmod 755 myfile.txt
-$ chmod 700 test_dir
+$ chmod 755 test.txt
+$ chmod 700 src
 ```
 
 ### Docker 동작 검증
