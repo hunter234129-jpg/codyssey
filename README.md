@@ -32,7 +32,7 @@ Docker: 28.5.2 (OrbStack)
 
 ### 터미널 조작 로그 기록
 $ pwd
-/Users/user/workspace
+/Users/hunter2341294686
 
 $ mkdir codyssey_practice
 $ cd codyssey_practice
